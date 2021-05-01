@@ -1,16 +1,11 @@
 # flutter_application_1
 
-A new Flutter project.
+透過按鍵觸發聲音檔案<br/>
+學習如何使用線上套件資源<br/>
+以及利用funtion來處理重複行為<br/>
+包含UI顯示<br/>
+除了課程中老師教的方式外<br/>
+額外嘗試使用單一function處理七個按鈕的顯示及行為<br/>
+進而了解function可以與UI設計搭配的方式<br/>
+以及一些陣列整合的用法<br/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
