@@ -1,6 +1,5 @@
 import 'package:audioplayers/audio_cache.dart';
 import 'package:flutter/material.dart';
-import 'package:audioplayers/audioplayers.dart';
 
 void main() {
   runApp(MyPiano());
@@ -35,6 +34,10 @@ List<String> nameButtonList = <String>[
   'Si',
   ''
 ];
+
+///利用function來處理行為類似的button陣列
+///因為顏色與文字不容易用迴圈來控制
+///所以套用陣列來當字典檔處理
 List<Widget> GetPianoKeys() {
   List<Widget> results = <Widget>[];
   for (int i = 0; i < 7; i++) {
